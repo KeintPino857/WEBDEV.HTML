@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My HTML Activity</title>
+</head>
+<body>
+
+    <h1>My Website: Links, Images, and Multimedia</h1>
+    <p>This page demonstrates how to use links, images, audio, and video in HTML.</p>
+
+    <!-- ===== LINK SECTION ===== -->
+    <h2>1. Website Link</h2>
+    <p>If you want to access your online classes, click the link below:</p>
+    
+    <a href="https://classroom.google.com" target="_blank">
+        Open Google Classroom
+    </a>
+
+    <hr>
+
+    <!-- ===== IMAGE SECTION ===== -->
+    <h2>2. Image Example</h2>
+    <p>Below is a sample image displayed from the internet:</p>
+
+    <img src="https://via.placeholder.com/300"
+         alt="Sample Image"
+         width="300">
+
+    <hr>
+
+    <!-- ===== AUDIO SECTION (Spotify Embedded) ===== -->
+    <h2>3. Audio Example (Spotify)</h2>
+    <p>You can listen to music using the Spotify player below:</p>
+
+    <iframe style="border-radius:12px" 
+        src="https://https://open.spotify.com/track/2Qvg4m7wCKWoX1Bq7zQ4bv?si=1yjKQe5ATaa0XF6w_yfXiw
+        width="100%" 
+        height="152" 
+        frameBorder="0" 
+        allowfullscreen="" 
+        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+    </iframe>
+
+    <hr>
+
+    <!-- ===== VIDEO SECTION (YouTube Embedded) ===== -->
+    <h2>4. Video Example</h2>
+    <p>You can watch the sample video below:</p>
+
+    <iframe width="400" height="250"
+        src="https://https://www.youtube.com/watch?v=HA6bByKdAQM
+        title="YouTube video player"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+
+    <hr>
+
+    <p><strong>Created by:</strong></p>
+    <p>KEINT WILLIAM A.PINO</p>
+    <p>BRENT DAVID LAURONILLA</p>
+
+</body>
+</html>
